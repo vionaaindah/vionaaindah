@@ -3,7 +3,7 @@
 
 ### 👩‍💻 &nbsp;About Me
 
-I'm a student on Lambung Mangkurat University majoring Information of Technology. I love to explore new technologies. I'm on track for learning more about Cloud Computing, Machine Learning, and Big Data.
+I'm a fresh graduate student at Lambung Mangkurat University majoring in Information of Technology. Currently, I working as Python Developer in PT. Solmit Bangun Indonesia. I love to explore new technologies. I'm on track for learning more about Cloud Computing, Machine Learning, and Big Data.
 
 
 ### 🛠 &nbsp;Tech Stack
