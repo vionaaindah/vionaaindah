@@ -3,7 +3,7 @@
 
 ### 👩‍💻 &nbsp;About Me
 
-Currently, I working as Python Developer in PT. Solmit Bangun Indonesia. I am responsible for building a fraud detection system and Business Intelligence web app using Django framework. I love to explore new technologies. I'm on track for learning more about Cloud Computing, Machine Learning, and Big Data.
+Currently, I working as Python Developer in PT. Solmit Bangun Indonesia. I am responsible for building a fraud detection system and Business Intelligence web app using Django framework. I love to explore new technologies. I'm on track for learning more about Data Science and Big Data.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -14,7 +14,8 @@ Currently, I working as Python Developer in PT. Solmit Bangun Indonesia. I am re
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikitlearn)&nbsp;
 ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=Plotly)&nbsp;
-![Dash](https://img.shields.io/badge/-Dash-05122A?style=flat&logo=Dash)&nbsp;\
+![Dash](https://img.shields.io/badge/-Dash-05122A?style=flat&logo=Dash)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
