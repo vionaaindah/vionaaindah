@@ -3,13 +3,14 @@
 
 ### 👩‍💻 &nbsp;About Me
 
-Currently, I working as Python Developer in PT. Solmit Bangun Indonesia. I am responsible for building a fraud detection system and Business Intelligence web app using Django framework. I love to explore new technologies. I'm on track for learning more about Data Science and Big Data.
+Currently, I work as a Back End (Python) Developer at a client company, where I am responsible for creating REST APIs that support multi-platform applications using the Flask framework. I am passionate about exploring new technologies and am always eager to deepen my knowledge in Data Science and Big Data. With a strong interest in technological advancements, I continuously seek opportunities to enhance my skills and apply the latest knowledge to my projects.
 
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikitlearn)&nbsp;
